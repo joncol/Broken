@@ -1,0 +1,8 @@
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+\#*
+.\#*
+*.sw[opn]
+.stack-work
